@@ -1,0 +1,10 @@
+insert into clientes (email, grupo, nombre, telefono, tienda) values('juan.crashe@live.com','TH','Juan Carlos Cela','0998651207','El Recreo');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('fer_morales@yahoo.com','Sk','Fernanda Morales','0999969173','El Condado');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('benito@outlook.com','TH','Jorge Armijos','0998651207','San Luis Shopping');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('daniel.morales@cnt.gob.ec','TH','Daniel Morales','0987361534','Quicentro Shopping');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('antonio.suqui@yahoo.com','SK','Antonio Suquilanda','0909876543','El Bosque');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('pedrito12345@live.com','SK','Pedro Freire','0961523456','Mall El Jardin');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('marce_bolanos@live.com','SK','Marcela Bolaños','0987361523','Paseo San Francisco');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('anto.velas@gmail.com','TH','Antonieta Velastegui','0998712354','CCI');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('vero_toa@hotmail.com','TH','Veronica Toapanta','0900987162','CCNU');
+insert into clientes (email, grupo, nombre, telefono, tienda) values('maria.munoz@cne.gob.ec','TH','Maria Muñoz','0912345678','Quicentro Sur');
